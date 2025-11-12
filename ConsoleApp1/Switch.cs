@@ -1,8 +1,8 @@
 using System;
 
-namespace ConsoleTasks
+namespace ConsoleApp1
 {
-    class DayOfWeekFinder
+    class Switch
     {
         public static void Main(String[] args)
         {

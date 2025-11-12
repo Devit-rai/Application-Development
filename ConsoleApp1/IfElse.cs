@@ -1,9 +1,11 @@
 using System;
 
-namespace ConsoleTasks
+namespace ConsoleApp1
 {
-    class AgeCategory
+    class IfElse
     {
+        
+
         public static void Main(String[] args)
         {
             Console.Write("Enter your age: ");
