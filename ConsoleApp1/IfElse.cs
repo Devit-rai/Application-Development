@@ -4,8 +4,6 @@ namespace ConsoleApp1
 {
     class IfElse
     {
-        
-
         public static void Main(String[] args)
         {
             Console.Write("Enter your age: ");

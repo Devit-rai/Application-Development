@@ -6,7 +6,6 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            // Part 1: Convert input to integer with exception handling
             try
             {
                 Console.Write("Enter a number: ");
@@ -24,9 +23,8 @@ namespace ConsoleApp1
                 Console.WriteLine("Program Executed");
             }
 
-            // Part 2: Password validation using throw
             Console.Write("\nEnter your password: ");
-            string password = Console.ReadLine() ?? ""; // handles possible null
+            string password = Console.ReadLine() ?? "";
 
             try
             {
@@ -46,7 +44,7 @@ namespace ConsoleApp1
 
             Console.WriteLine("\nPress Enter to exit...");
             Console.ReadLine();
-            
+
         }
     }
 }
