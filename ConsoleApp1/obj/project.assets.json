@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/davidrai/Application Development/ConsoleApp1/ConsoleApp1.csproj",
+      "projectUniqueName": "/Users/davidrai/Application-Development/ConsoleApp1/ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "/Users/davidrai/Application Development/ConsoleApp1/ConsoleApp1.csproj",
+      "projectPath": "/Users/davidrai/Application-Development/ConsoleApp1/ConsoleApp1.csproj",
       "packagesPath": "/Users/davidrai/.nuget/packages/",
-      "outputPath": "/Users/davidrai/Application Development/ConsoleApp1/obj/",
+      "outputPath": "/Users/davidrai/Application-Development/ConsoleApp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/davidrai/.nuget/NuGet/NuGet.Config"
